@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-2/static/css/main.3948c08f.css",
+    "main.js": "/react-2/static/js/main.5d465d82.js",
+    "static/js/787.e7d0249a.chunk.js": "/react-2/static/js/787.e7d0249a.chunk.js",
+    "static/media/heroimg.PNG": "/react-2/static/media/heroimg.db91468671519a240f95.PNG",
+    "static/media/Frame9.png": "/react-2/static/media/Frame9.5b226870a5a96fd853b3.png",
+    "static/media/craplink.png": "/react-2/static/media/craplink.c30e20b0616367520ef8.png",
+    "static/media/cpap supplies.png": "/react-2/static/media/cpap supplies.117068cc4d53328f79ce.png",
+    "static/media/categorylink.png": "/react-2/static/media/categorylink.8db69e0f3f9a860bd099.png",
+    "static/media/humidifier.png": "/react-2/static/media/humidifier.2526defff1aafc7ad852.png",
+    "static/media/powerbank.png": "/react-2/static/media/powerbank.bd9c17eba32943125952.png",
+    "static/media/cpap mask.png": "/react-2/static/media/cpap mask.3d3adb9108567fe6caf6.png",
+    "static/media/oxygen.png": "/react-2/static/media/oxygen.9721d92beb50cf432e80.png",
+    "static/media/Images (2).png": "/react-2/static/media/Images (2).10db9f41e10020c3407d.png",
+    "static/media/Images (3).png": "/react-2/static/media/Images (3).4dfff5360c47eff80507.png",
+    "static/media/Images (5).png": "/react-2/static/media/Images (5).b4185dd57be5641f4ade.png",
+    "static/media/Images (4).png": "/react-2/static/media/Images (4).b421ab0c379247c4ba77.png",
+    "static/media/Images.png": "/react-2/static/media/Images.43e330abcc1fc1d56edf.png",
+    "static/media/Images (1).png": "/react-2/static/media/Images (1).332e0d5225d38ca88611.png",
+    "static/media/navBarImg.png": "/react-2/static/media/navBarImg.4393993eeb608081ce59.png",
+    "index.html": "/react-2/index.html",
+    "main.3948c08f.css.map": "/react-2/static/css/main.3948c08f.css.map",
+    "main.5d465d82.js.map": "/react-2/static/js/main.5d465d82.js.map",
+    "787.e7d0249a.chunk.js.map": "/react-2/static/js/787.e7d0249a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3948c08f.css",
+    "static/js/main.5d465d82.js"
+  ]
+}
