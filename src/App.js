@@ -16,7 +16,7 @@ class App extends Component
           <Header/>
  
         <Routes>
-          <Route path='/' element={<PageOne/>}/>
+          {/* <Route path='/' element={<PageOne/>}/> */}
           <Route path="/" element={<PageOne/>} />
           <Route path="/cpap_Machine" element={<CpapMachine/>}/>  
           <Route path='/*' element={<PageOne/>}/>
