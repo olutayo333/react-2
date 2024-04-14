@@ -10,7 +10,7 @@ const Header = () => {
           <Link className='lg:mx-10 mx-1' >MASKS</Link> 
           <Link className='lg:mx-10 mx-1' >CPAP SUPPLIES</Link> 
           <Link className='lg:mx-10 mx-1' >HUMIDIFIERS</Link> 
-          <Link className='lg:mx-10 mx-1' >MORE..</Link>
+          <Link className='lg:mx-10 mx-1' >MORE...</Link>
      
     </div>
   )
